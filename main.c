@@ -10,7 +10,7 @@ for (i = 0; i <32 ; i++)
  
  
 {
-    printf("Hola Holberton mi nombre es Yaira\n");
+    printf("Hola Holberton \n");
  
  
 
